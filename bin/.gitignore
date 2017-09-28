@@ -1,6 +1,7 @@
-/Main.class
-/Tank.class
-/MovingObject.class
-/Vehicule.class
 /BattlefieldViewer.class
 /GameWindow.class
+/Main.class
+/MovingObject.class
+/Tank.class
+/Vehicule.class
+/Menu.class
